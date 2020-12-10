@@ -1,14 +1,13 @@
 import React from 'react'
-import Title from './components/Card'
 
 //Components
-
+import Title from './components/Card'
 
 //styles
 import './globaltheme.css'
 
 const App = () => (
-  <Title />
+ <Title/>
 )
 
 export default App
