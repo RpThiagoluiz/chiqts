@@ -1,10 +1,14 @@
 import React from 'react'
+import Title from './components/Card'
+
+//Components
+
 
 //styles
 import './globaltheme.css'
 
 const App = () => (
-  <h1>TonhaRules</h1>
+  <Title />
 )
 
 export default App
